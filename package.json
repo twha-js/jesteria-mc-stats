@@ -1,0 +1,24 @@
+{
+  "name": "Minecraft-Server-Status-Bot",
+  "version": "1.0.0",
+  "description": "Dev. Gweep Craetive & TunarDev",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "moment": "^2.29.1",
+    "discord-logs": "^1.9.0",
+    "chalk": "^4.1.1",
+    "minecraft-server-util": "^3.5.2",
+    "quick.db": "^7.1.3"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://discord.gg/rabel"
+  },
+  "license": "MIT"
+}
